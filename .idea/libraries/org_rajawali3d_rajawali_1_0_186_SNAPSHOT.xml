@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.rajawali3d:rajawali-1.0.186-SNAPSHOT">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rajawali-1.0.186-SNAPSHOT.aar/11acb888ab983c0c71fbf2131102aa27/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rajawali-1.0.186-SNAPSHOT.aar/11acb888ab983c0c71fbf2131102aa27/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rajawali3d/rajawali/1.0.186-SNAPSHOT/b6550ec0f08a203266c1b33e08a121c70f565f2a/rajawali-1.0.186-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
